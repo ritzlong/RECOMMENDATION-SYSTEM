@@ -4,7 +4,7 @@
 
 *NAME*: RITZ LONGJAM
 
-*INTERN ID*: 
+*INTERN ID*: CT08DA250
 
 *DOMAIN*: MACHINE LEARNING
 
@@ -50,4 +50,7 @@ Real-World Applications
 Collaborative filtering recommendation systems are widely used across various industries. In e-commerce platforms like Amazon and Flipkart, they help in suggesting products based on customer behavior. In streaming services such as Netflix and Spotify, they recommend movies, shows, or songs tailored to user preferences. Even in education platforms,  similar techniques are used to suggest courses a student might be interested in.
 
 *OUTPUT*
+<img width="364" alt="Image" src="https://github.com/user-attachments/assets/f4f9dc7f-f832-4dd5-b77e-5364207e8da0" />
+
+<img width="469" alt="Image" src="https://github.com/user-attachments/assets/2ad3ce6e-97df-462a-a7f7-9f9a7b06be1a" />
 
